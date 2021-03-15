@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496468708558",
+    "project_id": "gcm-chat-211de",
+    "storage_bucket": "gcm-chat-211de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496468708558:android:4644f07da5e7fe5ffad49f",
+        "android_client_info": {
+          "package_name": "com.gobrito.gcm_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496468708558-ngv7801he589i9t4t9nc8pujkl42baub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxF9GAwQZs31MJzJtLxpVFc_CLGjFhjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496468708558-ngv7801he589i9t4t9nc8pujkl42baub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
